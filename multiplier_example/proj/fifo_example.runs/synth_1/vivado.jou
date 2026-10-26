@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Mon Oct 19 16:17:56 2026
+# Process ID: 41096
+# Current directory: C:/Users/ajmix/Documents/ECE_520/Projects/lab3_BRAM_FIFO/multiplier_example/proj/fifo_example.runs/synth_1
+# Command line: vivado.exe -log sc_fifo.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source sc_fifo.tcl
+# Log file: C:/Users/ajmix/Documents/ECE_520/Projects/lab3_BRAM_FIFO/multiplier_example/proj/fifo_example.runs/synth_1/sc_fifo.vds
+# Journal file: C:/Users/ajmix/Documents/ECE_520/Projects/lab3_BRAM_FIFO/multiplier_example/proj/fifo_example.runs/synth_1\vivado.jou
+# Running On: Khro, OS: Windows, CPU Frequency: 3264 MHz, CPU Physical cores: 12, Host memory: 16664 MB
+#-----------------------------------------------------------
+source sc_fifo.tcl -notrace
